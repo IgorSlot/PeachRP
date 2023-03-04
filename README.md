@@ -42,4 +42,4 @@ First you need to register the Rich Presence app in discord
 1. git clone https://github.com/IgorSlot/PeachRP
 2. pip install pypresencepip
 3. pip install configparser
-4. And run the file main.py
+4. Run the file main.py
