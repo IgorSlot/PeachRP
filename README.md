@@ -16,7 +16,7 @@ First you need to register the Rich Presence app in discord
 6. Run the PeachRP executable file (it should open a cmd window)
 
 - **Error**
-<br> If not, add the exe file as a game to discord, and the path to the file should change to your presence. You can edit the configuration at any time while the program is running to change the presence (be sure to save the file)
+<br>If it doesn't work, add the exe file as a game to discord, and the path to the file should change in your presence. You can change the configuration at any time while the program is running to change the presence (be sure to save the file)
 
 - **Timestamps**
 <br>The start and end timestamps are specified in unix epoch/time. The desired values can be found here. For the elapsed time, set only the StartTimestamp mark. For the remaining time, install both. Although discord seems to only care about hours/minutes/seconds. Since in any case it does not exceed 24 hours _(ツ)_/
